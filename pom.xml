@@ -27,6 +27,8 @@
     </dependency>
   </dependencies>
 
+	<!-- LATEST CODE UPDATES-->
+
   <build>
 		
 		<finalName>my-app-1</finalName>
